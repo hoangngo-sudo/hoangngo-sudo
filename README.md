@@ -73,7 +73,7 @@ I am an early-career fullstack web developer who builds performant, accessible w
 
 ## Projects
 
-| Repo | Description | Tech |
+| Repos/ Links | Description | Tech |
 |------------|-------------|------|
 | [**portfolio3**](https://hoangngo-sudo.github.io/portfolio3/) | A simple but elegant portfolio prototype I made for my friend | HTML, CSS, JavaScript, Motion |
 | [**portfolio2**](https://thanhthaodesign.com/) | A portfolio I made for my friend per request | React, Typescript, Vite, TailwindCSS, Motion |
