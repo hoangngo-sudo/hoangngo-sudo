@@ -76,9 +76,9 @@ I am an early-career fullstack web developer who builds performant, accessible w
 | Repo | Description | Tech |
 |------------|-------------|------|
 | [**portfolio3**](https://hoangngo-sudo.github.io/portfolio3/) | A simple but elegant portfolio prototype I made for my friend | HTML, CSS, JavaScript, Motion |
-| [**portfolio2**](https://thanhthaodesign.com/) | A portfolio I made for a friend per request | React, Typescript, Vite, TailwindCSS, Motion |
+| [**portfolio2**](https://thanhthaodesign.com/) | A portfolio I made for my friend per request | React, Typescript, Vite, TailwindCSS, Motion |
 | [**portfolio**](https://github.com/hoangngo-sudo/portfolio) | A responsive config-driven portfolio I made with Copilot | NextJS, Typescript, BaseUI, TailwindCSS, Motion |
 | [**the-morytale**](https://github.com/hoangngo-sudo/the-morytale) | SparkHacks 2026 hackathon narrative app | React, TypeScript, Node.js, Express, MongoDB, Python |
-| [**three-card-poker**](https://github.com/hoangngo-sudo/ThreeCardPoker) | Multi-threaded server supporting concurrent client connections via TCP sockets and serialization. Thread-safe UI updates with Platform.runLater(); comprehensive test suite with 7 JUnit test classes | Java, JavaFX, Maven |
-| [**purpleit**](https://github.com/hoangngo-sudo/purpleit) | Recursive threaded comment system with collapsible threads and O(n) tree construction. Optimistic UI with server-authoritative state sync via Supabase RPC; infinite scroll pagination with IntersectionObserver | React, Vite, Supabase, React Router, Bootstrap |
-| [**drincatuic**](https://github.com/hoangngo-sudo/drincatuic) | Responsive multi-section landing page + RSVP system with lazy loading, strict security policies, and persistent theming. Webpack build pipeline deployed via GitHub Actions | HTML, CSS, JavaScript, GSAP, Webpack, Supabase |
+| [**three-card-poker**](https://github.com/hoangngo-sudo/ThreeCardPoker) | A school project that allows you to interact with server from clients in order to place bets | Java, JavaFX, Maven |
+| [**purpleit**](https://github.com/hoangngo-sudo/purpleit) | A hobby hub forum for webdev that allows you to post and leave comments | React, Vite, Supabase, React Router, Bootstrap |
+| [**drincatuic**](https://github.com/hoangngo-sudo/drincatuic) | Responsive multi-section landing page + RSVP system. Webpack build pipeline deployed via GitHub Actions | HTML, CSS, JavaScript, GSAP, Webpack, Supabase |
