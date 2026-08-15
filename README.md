@@ -1,16 +1,34 @@
 <h1 align="left">Hi, I am Hoang 👋</h1>
 <p align="left">
-  <a href="https://www.linkedin.com/in/hoang-minh-ngo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://hoaangngo.com/">
-    <img src="https://img.shields.io/badge/Website-467886?style=flat-square" alt="Website"/>
-  </a>
-  <a href="mailto:work@hoaangngo.com">
-    <img src="https://img.shields.io/badge/Email-work%40hoaangngo.com-8B89CC?style=flat-square" alt="Email"/>
-  </a>
-  <a href="https://github.com/hoangngo-sudo">
-    <img src="https://img.shields.io/badge/GitHub-hoangngo--sudo-181717?style=flat-square" alt="GitHub"/>
+  <span style="display:inline-block; margin-right:6px;">
+    <a href="https://www.linkedin.com/in/hoang-minh-ngo/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </span>
+  <span style="display:inline-block; margin-right:6px;">
+    <a href="https://hoaangngo.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Website-467886?style=flat-square" alt="Website" />
+    </a>
+  </span>
+  <span style="display:inline-block; margin-right:6px;">
+    <a href="mailto:work@hoaangngo.com">
+      <img src="https://img.shields.io/badge/Email-work%40hoaangngo.com-8B89CC?style=flat-square" alt="Email" />
+    </a>
+  </span>
+  <span style="display:inline-block;">
+    <a href="https://github.com/hoangngo-sudo" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/GitHub-hoangngo--sudo-181717?style=flat-square" alt="GitHub" />
+    </a>
+  </span>
+</p>
+
+<p align="center">
+  <a href="https://gitfut.com/hoangngo-sudo">
+    <img
+      src="https://gitfut.com/hoangngo-sudo.png"
+      alt="My GitFut card"
+      width="250"
+    />
   </a>
 </p>
 
