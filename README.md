@@ -93,6 +93,7 @@ I am an early-career fullstack web developer who builds performant, accessible w
 
 | Repos/ Links | Description | Tech |
 |------------|-------------|------|
+| [**drinc**](https://hoangngo-sudo.github.io/drinc/index.html) | A simple landing page and its filling form page prototype for our club. All graphics are credited to [Grace Min](https://www.instagram.com/gmin_design/), our UIC alumni | HTML, CSS, JavaScript |
 | [**portfolio3**](https://hoangngo-sudo.github.io/portfolio3/) | A simple but elegant portfolio prototype I made for my friend | HTML, CSS, JavaScript, Motion |
 | [**portfolio2**](https://thanhthaodesign.com/) | A portfolio I made for my friend per request | React, Typescript, Vite, TailwindCSS, Motion |
 | [**portfolio**](https://github.com/hoangngo-sudo/portfolio) | A responsive config-driven portfolio I made with Copilot | NextJS, Typescript, BaseUI, TailwindCSS, Motion |
